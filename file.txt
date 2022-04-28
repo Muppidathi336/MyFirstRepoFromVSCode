@@ -2,3 +2,6 @@ clone a repo from github to github desktop empty folder
 then add this file
 
 This change I make to be added in new branch in remote github from my local github desktop
+
+this done after pull origin, stash changes and continue
+This change I make to be added in new branch in remote github from my local github desktop

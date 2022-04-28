@@ -1,0 +1,2 @@
+clone a repo from github to github desktop empty folder
+then add this file
